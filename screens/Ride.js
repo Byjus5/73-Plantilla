@@ -101,9 +101,9 @@ export default class RideScreen extends Component {
           bikeAssigned: false
         });
 
-        // For Android users only
+        // Solo para usuarios de
         // ToastAndroid.show(
-        //   "We hope you enjoyed your ride",
+        //   "Esperamos hayas disfrutado tu viaje",
         //   ToastAndroid.SHORT
         // );
       }
